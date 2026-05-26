@@ -1,0 +1,6 @@
+{
+  "name": "Quantum ASL Academy",
+  "description": "An interactive educational platform pairing quantum physics with ASL definitions, featuring sign video hover popups and an active NV-center diamond lattice simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
