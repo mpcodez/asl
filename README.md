@@ -20,7 +20,7 @@ A simplified visual simulation of a nitrogen-vacancy center in a diamond lattice
 
 A full walkthrough of both components is available here:
 
-![Demo](demo.mp4)
+![Demo preview](demo.gif)
 
 ## Data and ASL Attribution
 
